@@ -1,0 +1,1 @@
+from resources.med_bot_resource import blp as MedBotBlueprint

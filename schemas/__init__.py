@@ -1,0 +1,1 @@
+from schemas.med_bot_schema import MedBotSchema
